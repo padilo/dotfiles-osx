@@ -11,6 +11,7 @@ brew services start sketchybar
 
 brew tap FelixKratz/formulae
 brew install borders
+brew services start borders
 
 brew install --cask font-sketchybar-app-font
 ```
