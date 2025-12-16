@@ -9,6 +9,9 @@ brew tap FelixKratz/formulae
 brew install skewtchybar
 brew services start sketchybar
 
+brew tap FelixKratz/formulae
+brew install borders
+
 brew install --cask font-sketchybar-app-font
 ```
 
